@@ -1,0 +1,7 @@
+{
+	"name": "SAMSEG-docker",
+	"source_code": "samseg_docker.py",
+	"import_name": "samseg_docker",
+	"attr": "samseg_docker",
+	"add_info":{"flair":"FLAIR", "mprage":"acq-MPRAGE_T1w"}
+}
